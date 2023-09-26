@@ -2,6 +2,12 @@
 
 ## Author: Daisy Lin
 
+Published Website
+
+[GitHub Repository](https://github.com/tira-miso/Tzu-ChunLin_T1A2)
+
+
+
 ## Purpose of Website
 The purpose of this webiste is to uniquely showcase my technical abilities as a potential junior web developer. 
 It aims to demonstrate a variety of skills such as HMTL, CSS, as well as basic design principles. Additionally, I am able to share a piece of myself and my experiences with both my trainers and classmates. 
@@ -14,7 +20,39 @@ In terms of visual features, I have included multiple ```onhover``` events which
 As per the assignment requirements, I have made sure to include a downloadable version of my resume for potential employers. 
 
 ## Sitemap
+![Alt text](scr/assets/Sitemap.png)
+
 ## Wireframes
+
+Home-Desktop, tablet , mobile
+
+![Alt text](scr/assets/HomeWireframe.png)
+
+
+Blog-Desktop, tablet+mobile
+
+![Alt text](scr/assets/BlogWireframe.png)
+
+
+Contaxt-Desktop+tablet+mobile
+
+![Alt text](scr/assets/Contact-desktop.png)
+
+## Screenshots
+
+Home
+![Alt text](scr/assets/HomeScreenshot.png)
+
+About
+![Alt text](scr/assets/AboutScreenshots.png)
+
+Blog
+![Alt text](scr/assets/BlogScreenshots.png)
+
+Contact
+![Alt text](scr/assets/ContactScreenshots.png)
+
+
 
 
 ## Target Audience
@@ -22,4 +60,6 @@ The target audience for this website is my trainers and potential future employe
 
 ## Tech Stack
 This Website will be built entirely in HTML & CSS, and [Vercel](https://vercel.com/) is the platform that has been chosen for deployment. 
+
+
 
