@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(200deg, #FFF6EB 0%, #f7f2f2 100%);
+  background-attachment: fixed;
+}
+/* Header */
+
+header {
+  width: 100%;
+  max-height: 2vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 1.5rem;
+}
+
+a:link {
+  text-decoration: none;
+  color: #0d1117;
+}
+a:visited {
+  text-decoration: none;
+  color: #0d1117;
+}
+  #logo {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Tilt Prism', cursive;
+ } 
+#navBar  {
+  margin-left: 10%;
+  background-color: #f0e7dc;
+  border-radius: 30rem;
+  font-size: 1.2rem;
+  font-family: 'Caveat', cursive;
+}
+#navBar a {
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+#navBar a:hover {
+    color: #726c64;
+    background-color: rgb(253, 250, 242);
+    border-radius: 30rem;
+    opacity: 0.5;
+}
+ 
+article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+} 
+
+#Blog1, #Blog2, #Blog3, #Blog4, #Blog5 {
+  width: 1000%;
+  height: 100%;
+  border-radius: 2.5rem;
+  background-color: #fdfbf8;
+  padding: 6rem 1rem 6rem 1rem;
+  margin: 0.5rem;
+  text-align: center;
+} 
+
+#Blog1:hover {
+  background-color: #e9ddca;
+  opacity: 0.7;
+  transition-duration: 0.8s;
+}
+#Blog2:hover {
+  background-color: #c5b7a1;
+  opacity: 0.7;
+  transition-duration: 0.8s;
+}
+#Blog3:hover {
+  background-color: #c5b7a1;
+  opacity: 0.7;
+  transition-duration: 0.8s;
+}
+#Blog4:hover {
+  background-color: #e9ddca;
+  opacity: 0.7;
+  transition-duration: 0.8s;
+}
+#Blog5:hover {
+  background-color: #e9ddca;
+  opacity: 0.7;
+  transition-duration: 0.8s;
+}
+
+
+
+h2 {
+  font-family: 'Caveat', cursive;
+}
+h3 {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 65%;
+  color: #726c64;
+}
+p {
+  font-family: 'Maven Pro', sans-serif;
+}
+
+footer {
+  font-family: 'Caveat', cursive;
+  text-align: center;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+}   
+
+/* Tablet and desktop */
+
+ @media only screen and (min-width: 800px) {
+  #Blog1, #Blog2, #Blog3, #Blog4, #Blog5 {
+    width: 50vh;
+    height: 40vh;
+  }
+  article {
+    padding-top: 3rem;
+  }
+  header {
+    padding-top: 5rem;
+  }
+} 
+
+@media only screen and (min-width: 1400px) {
+  article {
+    padding-left: 15rem;
+    padding-right: 15rem;
+  }
+} 
