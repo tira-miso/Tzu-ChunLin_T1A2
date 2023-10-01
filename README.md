@@ -2,7 +2,7 @@
 
 ## Author: Daisy Lin
 
-Published Website
+[Published Website](https://tzu-chun-lin-t1-a2.vercel.app/)
 
 [GitHub Repository](https://github.com/tira-miso/Tzu-ChunLin_T1A2)
 
