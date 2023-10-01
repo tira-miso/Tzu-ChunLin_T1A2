@@ -29,9 +29,9 @@ Home-Desktop, tablet , mobile
 ![Alt text](scr/assets/HomeWireframe.png)
 
 
-Blog-Desktop, tablet+mobile
+Blog-Desktop, tablet, mobile
 
-![Alt text](scr/assets/BlogWireframe.png)
+![Alt text](postWireframes.png)
 
 
 Contaxt-Desktop+tablet+mobile
